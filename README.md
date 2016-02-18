@@ -1,5 +1,7 @@
 # Jeremy Lucas
 
+![](jeremy.jpg)
+
 ## Work experience
 
 **Lead Engineer, Platform** - URX (October 2013-present)
