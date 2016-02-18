@@ -4,7 +4,7 @@
 
 ## Work experience
 
-**Lead Engineer, Platform** - URX (October 2013-present)
+**Lead Engineer, Platform** - [URX](https://urx.com) (October 2013-present)
 
 As an early engineer, I built out and have maintained several different systems up and down the stack:
 
@@ -19,11 +19,11 @@ As an early engineer, I built out and have maintained several different systems 
 
 
 
-**Senior Software Engineer, Traffic Acquisition** - Connexity, formerly Shopzilla, Inc. (September 2011-October 2013)
+**Senior Software Engineer, Traffic Acquisition** - [Connexity, formerly Shopzilla, Inc.](https://connexity.com) (September 2011-October 2013)
 
 
 
-**Web Application Developer, Internship** - Wet Seal, Inc. (November 2010-September 2011)
+**Web Application Developer, Internship** - [Wet Seal](http://wetseal-llc.com) (November 2010-September 2011)
 
 
 
