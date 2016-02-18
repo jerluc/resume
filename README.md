@@ -17,7 +17,7 @@ As an early engineer, I built out and have maintained several different systems 
 
 
 
-**Senior Software Engineer, Traffic Acquisition** - Connexity (September 2011-October 2013)
+**Senior Software Engineer, Traffic Acquisition** - Connexity, formerly Shopzilla, Inc. (September 2011-October 2013)
 
 
 
