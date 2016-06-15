@@ -4,7 +4,7 @@
 
 ## Work experience
 
-**Lead Engineer, Platform** - [URX](https://urx.com) (October 2013-present)
+**Lead Engineer, Platform** - [URX](https://www.crunchbase.com/organization/urx) (October 2013-present)
 
 As an early engineer, I built out and have maintained several different systems up and down the stack:
 
