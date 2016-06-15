@@ -4,6 +4,11 @@
 
 ## Work experience
 
+**Lab Instructor, Part-time** - [Hackbright Academy](https://hackbrightacademy.com/) (June
+2016-present)
+
+Will be teaching "Introduction to Programming" in evening classes
+
 **Lead Engineer, Platform** - [URX](https://www.crunchbase.com/organization/urx) (October 2013-April 2016)
 
 As an early engineer, I built out and have maintained several different systems up and down the stack:
