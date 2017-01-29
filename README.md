@@ -4,8 +4,10 @@
 
 ## Work experience
 
+**Software Engineer** [Station A NRG](http://stationa.com) (August 2016-present)
+
 **Lab Instructor, Part-time** - [Hackbright Academy](https://hackbrightacademy.com/) (June
-2016-present)
+2016-December 2016)
 
 Will be teaching "Introduction to Programming" in evening classes
 
